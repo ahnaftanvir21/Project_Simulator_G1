@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-2: Implement Customer Login Page" 
+"The login feature allows customers to access their account by entering a username and password, with a forgot password option for account recovery. Users can reset access by providing their registered email or phone number, receive an OTP for verification, and securely submit their login credentials." 
+"**Status: Implemented**" 
+"" 
