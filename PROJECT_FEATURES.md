@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## T-27: Implement Staff Profile Management Page" 
+"The profile management feature allows staff members to view their profile details, update personal information, and securely change their password to maintain account security." 
+"**Status: Implemented**" 
+"" 
