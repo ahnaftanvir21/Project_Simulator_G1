@@ -5,5 +5,7 @@
 "" 
 "## T-4: Implement Browsing Bikes page" 
 "The browsing bikes feature allows customers to view all available bikes, see their categories, check rental prices, and confirm their availability, helping users choose a bike that suits their needs." 
+"## T-27: Implement Staff Profile Management Page" 
+"The profile management feature allows staff members to view their profile details, update personal information, and securely change their password to maintain account security." 
 "**Status: Implemented**" 
 "" 
